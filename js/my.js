@@ -18,12 +18,25 @@
 
 
 // 3-masala
-// let Ali=x;
-// let Vali=y;
-// x=y+N;
-// y=X/N;
-// Ishlay olmadim!
+// v=a-n
+// a=v*k
+// v=v*k-n
+// n=v*k-v
+// n=v(k-1)
+// v=n/(k-1)
+// a=n*k/(k-1)
 
+// let n=+prompt("Ali Validan necha yosh katta");
+// let k=+prompt("Vali alidan necha marta kichik");
+
+// let v=n/(k-1);
+// let a=(n*k)/(k-1);
+
+// v=parseInt(v);
+// a=parseInt(a);
+
+// console.log("Alining yoshi: "+a);
+// console.log("Valining yoshi: "+v);
 
 
 
